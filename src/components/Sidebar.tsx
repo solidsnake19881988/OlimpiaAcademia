@@ -65,7 +65,7 @@ const Sidebar = () => {
           <div className="mb-8 text-center">
             <div className="w-32 h-32 mx-auto mb-2 relative">
               <img 
-                src="/img/logo_olimpia.png"
+                src="/img/logodeolimpia.png"
                 alt="Olimpia Logo"
                 className="w-full h-full object-contain"
               />
